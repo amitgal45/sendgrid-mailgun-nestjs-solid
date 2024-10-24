@@ -2,8 +2,6 @@
 
 A production-ready, SOLID-compliant email system for NestJS applications that seamlessly integrates with SendGrid and Mailgun. This implementation provides a robust, scalable, and maintainable solution for handling email communications in your NestJS applications.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 🌟 Features
 
 - **Provider Agnostic Design**: Easily switch between SendGrid and Mailgun without changing your application code
