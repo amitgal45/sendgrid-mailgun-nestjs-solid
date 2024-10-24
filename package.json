@@ -1,10 +1,27 @@
 {
   "name": "sendgrid-mailgun-nestjs-solid",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "description": "A production-ready, SOLID-compliant email system for NestJS applications that seamlessly integrates with SendGrid and Mailgun. Features provider-agnostic design, liquid templating, TypeORM integration, and comprehensive error handling.",
+  "author": "Amit Gal <amit-gal.dev>",
   "license": "UNLICENSED",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitgal45/sendgrid-mailgun-nestjs-solid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitgal45/sendgrid-mailgun-nestjs-solid/issues"
+  },
+  "keywords": [
+    "nestjs",
+    "email",
+    "sendgrid",
+    "mailgun",
+    "solid",
+    "typescript",
+    "template-engine",
+    "liquid"
+  ],
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
